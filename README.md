@@ -29,24 +29,34 @@ MIAGE Étudiant à IBAM | Développeur Full-Stack
 
 <p align="center">
 
+<table>
+<tr>
+<td align="center">
 <a href="https://www.linkedin.com/in/kafando-joel-8475863b8/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+<br>
+LinkedIn
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
+<td align="center">
 <a href="https://facebook.com/eljokdf" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
+<br>
+Facebook
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
+<td align="center">
 <a href="https://instagram.com/eljo2906kdf" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+<br>
+Instagram
 </a>
+</td>
+
+</tr>
+</table>
 
 </p>
 
