@@ -13,16 +13,17 @@
 
 ## 🤝 Connect with me
 
-<a href="https://linkedin.com" target="_blank">
-  <img src="https://shields.io" alt="LinkedIn" height="40"/>
-</a>
+👉 **[Visiter mon profil LinkedIn](https://www.linkedin.com/in/kafando-jo%C3%ABl-8475863b8)** 💼
 
 ---
 
 ## 🛠️ Languages & Tools
 
-### Backend & Frameworks
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+### 🔹 Backend & Frameworks
+- **PHP** (Laravel)
+- **Python** (Django)
+- **Java**
 
-### Databases & Tools
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+### 🔹 Databases & Tools
+- **SQL** (MySQL, PostgreSQL)
+- **Git & GitHub**
