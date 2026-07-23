@@ -9,9 +9,6 @@ MIAGE Étudiant à IBAM | Développeur Full-Stack
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80">
 </p>
 
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=joelkafando" alt="joelkafando" />
-</p>
 
 - 🔭 Je travaille actuellement sur **Systèmes d’Information de Gestion et Applications Web**
 
@@ -77,7 +74,5 @@ height="30" width="40"/>
 </p>
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joelkafando&show_icons=true&theme=github_dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joelkafando&theme=github-dark)
