@@ -22,14 +22,7 @@
 ## 🛠️ Languages & Tools
 
 ### Backend & Frameworks
-![PHP](https://shields.io)
-![Laravel](https://shields.io)
-![Python](https://shields.io)
-![Django](https://shields.io)
-![Java](https://shields.io)
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 ### Databases & Tools
-![MySQL](https://shields.io)
-![PostgreSQL](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
