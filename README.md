@@ -99,15 +99,6 @@ Instagram
 </p>
 
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=joelkafando&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelkafando&layout=compact&theme=github_dark&hide_border=true" />
-
-</p>
-
-
 ---
 
 <p align="center">
