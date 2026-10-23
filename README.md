@@ -18,9 +18,9 @@ MIAGE Étudiant à IBAM | Développeur Full-Stack
 
 ## 🚀 À propos de moi
 
-- 🔭 Je travaille actuellement sur **Systèmes d’Information de Gestion et Applications Web**
+- 🔭 Je travaille actuellement sur **Genie Logiciel**
 
-- 🌱 J'apprends actuellement **Architectures Logicielles Avancées & ERP**
+- 🌱 J'apprends actuellement **Developpement Mobile**
 
 
 ---
